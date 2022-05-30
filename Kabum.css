@@ -1,0 +1,10 @@
+.MainCLS
+{
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    background-color: rgb(1, 28, 81);
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 100vh;
+}
